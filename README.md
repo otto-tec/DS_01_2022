@@ -1,4 +1,4 @@
-# data_science. JANEIRO - 2022
+# DS_LC - MODULO 4 - TÉCNICAS DE PROGRAMAÇÃO I
 
 - A_01 GIT / GITHUB
 - A_02 NUMPY - OPERAÇÕES 1D
